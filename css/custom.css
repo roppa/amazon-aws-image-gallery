@@ -1,0 +1,41 @@
+html { overflow-y: scroll; }
+
+body {
+	background-color: rgb(150, 150, 150);
+	margin-top: 40px;
+}
+
+#modalLabel:first-letter {
+	text-transform: uppercase;
+}
+		
+.thumbnails img {
+	opacity: .75;
+}
+
+.thumbnails img:hover {
+	opacity: 1;
+}
+
+.thumbnail {
+	-webkit-border-radius: 0px;
+	-moz-border-radius: 0px;
+	border-radius: 0px;
+	border: 1px solid #444;
+}
+
+.thumbnails > li {
+	min-height: 220px;
+}
+
+/* overrides */
+
+div.pp_default .pp_nav .currentTextHolder {
+	top: 0;
+	font-size: 13px;
+}
+
+div.pp_default .pp_description {
+	font-size: 14px;
+	margin-top: 10px;
+}

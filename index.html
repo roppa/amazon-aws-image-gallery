@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		<meta name="viewport" content="width=device-width, initial-scale=1.0">
+		
+		<title>Art Gallery</title>
+
+		<link href="css/bootstrap.min.css" rel="stylesheet">
+		<link href="css/bootstrap-responsive.min.css" rel="stylesheet">
+		<link href="css/prettyPhoto.css" rel="stylesheet">
+		<link href="css/custom.css" rel="stylesheet">
+
+		<script>
+			function urlArgs() {
+			    var args = {},                             // Start with an empty object
+			    	query = location.search.substring(1),  // Get query string, minus '?'
+			    	pairs = query.split("&"),              // Split at ampersands
+			    	i, pos, name, value;
+
+			    for(i = 0; i < pairs.length; i++) {   	   // For each fragment
+			        pos = pairs[i].indexOf('=');       	   // Look for "name=value"
+			        if (pos == -1) continue;               // If not found, skip it
+			        name = pairs[i].substring(0,pos);      // Extract the name
+			        value = pairs[i].substring(pos+1);     // Extract the value
+			        value = decodeURIComponent(value);     // Decode the value
+			        args[name] = value;                    // Store as a property
+			    }
+			    return args;                               // Return the parsed arguments
+			}
+		</script>
+
+	</head>
+	<body>
+		<div class="container">
+			<ul class="thumbnails"></ul>
+		</div>
+		
+		<script src="http://code.jquery.com/jquery.js"></script>
+		<script src="js/jquery.prettyPhoto.js"></script>
+		<script src="js/bootstrap.min.js"></script>
+		<script src="js/gallery.js"></script>
+		
+		<script>
+			//specific images for each level of courses need to have their own folder
+			//these folders are specified
+			var app = urlArgs(), url = "dir.xml"; //local url example
+			//live example would be something like:
+			//url: "/?prefix=" + path + "/tn%2f&max-keys=1000&delimiter=%2f&callback=?",
+			gallery.init(app.gallery || "gallery", url);
+		</script>
+
+	</body>
+</html>

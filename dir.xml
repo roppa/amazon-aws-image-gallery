@@ -1,0 +1,513 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ListBucketResult xmlns="http://s3.amazonaws.com/doc/2006-03-01/">
+    <Name>maced-arts-and-crafts</Name>
+    <Prefix>gallery/tn/</Prefix>
+    <Marker></Marker>
+    <MaxKeys>1000</MaxKeys>
+    <Delimiter>/</Delimiter>
+    <IsTruncated>false</IsTruncated>
+    <Contents>
+        <Key>gallery/tn/</Key>
+        <LastModified>2013-02-28T16:40:26.000Z</LastModified>
+        <ETag>"d41d8cd98f00b204e9800998ecf8427e"</ETag>
+        <Size>0</Size>
+        <StorageClass>STANDARD</StorageClass>
+    </Contents>
+    <Contents>
+        <Key>gallery/tn/1_This is my Blue image.jpg</Key>
+        <LastModified>2013-02-28T16:40:25.000Z</LastModified>
+        <ETag>"7c8dfa129423a3615d748136f67c32e1"</ETag>
+        <Size>18344</Size>
+        <StorageClass>STANDARD</StorageClass>
+    </Contents>
+    <Contents>
+        <Key>gallery/tn/2_This is my Scottish landscape.jpg</Key>
+        <LastModified>2013-02-28T16:40:26.000Z</LastModified>
+        <ETag>"77bbfbcf01b11bdcbd6fd843d0c616d1"</ETag>
+        <Size>19109</Size>
+        <StorageClass>STANDARD</StorageClass>
+    </Contents>
+    <Contents>
+        <Key>gallery/tn/3_This is my Canadian image.jpg</Key>
+        <LastModified>2013-02-28T16:40:25.000Z</LastModified>
+        <ETag>"b9cb890e7daa607f00ae869c4a7345f3"</ETag>
+        <Size>18494</Size>
+        <StorageClass>STANDARD</StorageClass>
+    </Contents>
+    <Contents>
+        <Key>gallery/tn/</Key>
+        <LastModified>2013-02-28T16:40:26.000Z</LastModified>
+        <ETag>"d41d8cd98f00b204e9800998ecf8427e"</ETag>
+        <Size>0</Size>
+        <StorageClass>STANDARD</StorageClass>
+    </Contents>
+    <Contents>
+        <Key>gallery/tn/1_This is my Blue image.jpg</Key>
+        <LastModified>2013-02-28T16:40:25.000Z</LastModified>
+        <ETag>"7c8dfa129423a3615d748136f67c32e1"</ETag>
+        <Size>18344</Size>
+        <StorageClass>STANDARD</StorageClass>
+    </Contents>
+    <Contents>
+        <Key>gallery/tn/2_This is my Scottish landscape.jpg</Key>
+        <LastModified>2013-02-28T16:40:26.000Z</LastModified>
+        <ETag>"77bbfbcf01b11bdcbd6fd843d0c616d1"</ETag>
+        <Size>19109</Size>
+        <StorageClass>STANDARD</StorageClass>
+    </Contents>
+    <Contents>
+        <Key>gallery/tn/3_This is my Canadian image.jpg</Key>
+        <LastModified>2013-02-28T16:40:25.000Z</LastModified>
+        <ETag>"b9cb890e7daa607f00ae869c4a7345f3"</ETag>
+        <Size>18494</Size>
+        <StorageClass>STANDARD</StorageClass>
+    </Contents>    
+    <Contents>
+        <Key>gallery/tn/</Key>
+        <LastModified>2013-02-28T16:40:26.000Z</LastModified>
+        <ETag>"d41d8cd98f00b204e9800998ecf8427e"</ETag>
+        <Size>0</Size>
+        <StorageClass>STANDARD</StorageClass>
+    </Contents>
+    <Contents>
+        <Key>gallery/tn/1_This is my Blue image.jpg</Key>
+        <LastModified>2013-02-28T16:40:25.000Z</LastModified>
+        <ETag>"7c8dfa129423a3615d748136f67c32e1"</ETag>
+        <Size>18344</Size>
+        <StorageClass>STANDARD</StorageClass>
+    </Contents>
+    <Contents>
+        <Key>gallery/tn/2_This is my Scottish landscape.jpg</Key>
+        <LastModified>2013-02-28T16:40:26.000Z</LastModified>
+        <ETag>"77bbfbcf01b11bdcbd6fd843d0c616d1"</ETag>
+        <Size>19109</Size>
+        <StorageClass>STANDARD</StorageClass>
+    </Contents>
+    <Contents>
+        <Key>gallery/tn/3_This is my Canadian image.jpg</Key>
+        <LastModified>2013-02-28T16:40:25.000Z</LastModified>
+        <ETag>"b9cb890e7daa607f00ae869c4a7345f3"</ETag>
+        <Size>18494</Size>
+        <StorageClass>STANDARD</StorageClass>
+    </Contents>    
+    <Contents>
+        <Key>gallery/tn/</Key>
+        <LastModified>2013-02-28T16:40:26.000Z</LastModified>
+        <ETag>"d41d8cd98f00b204e9800998ecf8427e"</ETag>
+        <Size>0</Size>
+        <StorageClass>STANDARD</StorageClass>
+    </Contents>
+    <Contents>
+        <Key>gallery/tn/1_This is my Blue image.jpg</Key>
+        <LastModified>2013-02-28T16:40:25.000Z</LastModified>
+        <ETag>"7c8dfa129423a3615d748136f67c32e1"</ETag>
+        <Size>18344</Size>
+        <StorageClass>STANDARD</StorageClass>
+    </Contents>
+    <Contents>
+        <Key>gallery/tn/2_This is my Scottish landscape.jpg</Key>
+        <LastModified>2013-02-28T16:40:26.000Z</LastModified>
+        <ETag>"77bbfbcf01b11bdcbd6fd843d0c616d1"</ETag>
+        <Size>19109</Size>
+        <StorageClass>STANDARD</StorageClass>
+    </Contents>
+    <Contents>
+        <Key>gallery/tn/3_This is my Canadian image.jpg</Key>
+        <LastModified>2013-02-28T16:40:25.000Z</LastModified>
+        <ETag>"b9cb890e7daa607f00ae869c4a7345f3"</ETag>
+        <Size>18494</Size>
+        <StorageClass>STANDARD</StorageClass>
+    </Contents>
+    <Contents>
+        <Key>gallery/tn/</Key>
+        <LastModified>2013-02-28T16:40:26.000Z</LastModified>
+        <ETag>"d41d8cd98f00b204e9800998ecf8427e"</ETag>
+        <Size>0</Size>
+        <StorageClass>STANDARD</StorageClass>
+    </Contents>
+    <Contents>
+        <Key>gallery/tn/1_This is my Blue image.jpg</Key>
+        <LastModified>2013-02-28T16:40:25.000Z</LastModified>
+        <ETag>"7c8dfa129423a3615d748136f67c32e1"</ETag>
+        <Size>18344</Size>
+        <StorageClass>STANDARD</StorageClass>
+    </Contents>
+    <Contents>
+        <Key>gallery/tn/2_This is my Scottish landscape.jpg</Key>
+        <LastModified>2013-02-28T16:40:26.000Z</LastModified>
+        <ETag>"77bbfbcf01b11bdcbd6fd843d0c616d1"</ETag>
+        <Size>19109</Size>
+        <StorageClass>STANDARD</StorageClass>
+    </Contents>
+    <Contents>
+        <Key>gallery/tn/3_This is my Canadian image.jpg</Key>
+        <LastModified>2013-02-28T16:40:25.000Z</LastModified>
+        <ETag>"b9cb890e7daa607f00ae869c4a7345f3"</ETag>
+        <Size>18494</Size>
+        <StorageClass>STANDARD</StorageClass>
+    </Contents>    
+    <Contents>
+        <Key>gallery/tn/</Key>
+        <LastModified>2013-02-28T16:40:26.000Z</LastModified>
+        <ETag>"d41d8cd98f00b204e9800998ecf8427e"</ETag>
+        <Size>0</Size>
+        <StorageClass>STANDARD</StorageClass>
+    </Contents>
+    <Contents>
+        <Key>gallery/tn/1_This is my Blue image.jpg</Key>
+        <LastModified>2013-02-28T16:40:25.000Z</LastModified>
+        <ETag>"7c8dfa129423a3615d748136f67c32e1"</ETag>
+        <Size>18344</Size>
+        <StorageClass>STANDARD</StorageClass>
+    </Contents>
+    <Contents>
+        <Key>gallery/tn/2_This is my Scottish landscape.jpg</Key>
+        <LastModified>2013-02-28T16:40:26.000Z</LastModified>
+        <ETag>"77bbfbcf01b11bdcbd6fd843d0c616d1"</ETag>
+        <Size>19109</Size>
+        <StorageClass>STANDARD</StorageClass>
+    </Contents>
+    <Contents>
+        <Key>gallery/tn/3_This is my Canadian image.jpg</Key>
+        <LastModified>2013-02-28T16:40:25.000Z</LastModified>
+        <ETag>"b9cb890e7daa607f00ae869c4a7345f3"</ETag>
+        <Size>18494</Size>
+        <StorageClass>STANDARD</StorageClass>
+    </Contents>  
+            <Contents>
+        <Key>gallery/tn/</Key>
+        <LastModified>2013-02-28T16:40:26.000Z</LastModified>
+        <ETag>"d41d8cd98f00b204e9800998ecf8427e"</ETag>
+        <Size>0</Size>
+        <StorageClass>STANDARD</StorageClass>
+    </Contents>
+    <Contents>
+        <Key>gallery/tn/1_This is my Blue image.jpg</Key>
+        <LastModified>2013-02-28T16:40:25.000Z</LastModified>
+        <ETag>"7c8dfa129423a3615d748136f67c32e1"</ETag>
+        <Size>18344</Size>
+        <StorageClass>STANDARD</StorageClass>
+    </Contents>
+    <Contents>
+        <Key>gallery/tn/2_This is my Scottish landscape.jpg</Key>
+        <LastModified>2013-02-28T16:40:26.000Z</LastModified>
+        <ETag>"77bbfbcf01b11bdcbd6fd843d0c616d1"</ETag>
+        <Size>19109</Size>
+        <StorageClass>STANDARD</StorageClass>
+    </Contents>
+    <Contents>
+        <Key>gallery/tn/3_This is my Canadian image.jpg</Key>
+        <LastModified>2013-02-28T16:40:25.000Z</LastModified>
+        <ETag>"b9cb890e7daa607f00ae869c4a7345f3"</ETag>
+        <Size>18494</Size>
+        <StorageClass>STANDARD</StorageClass>
+    </Contents>
+    <Contents>
+        <Key>gallery/tn/</Key>
+        <LastModified>2013-02-28T16:40:26.000Z</LastModified>
+        <ETag>"d41d8cd98f00b204e9800998ecf8427e"</ETag>
+        <Size>0</Size>
+        <StorageClass>STANDARD</StorageClass>
+    </Contents>
+    <Contents>
+        <Key>gallery/tn/1_This is my Blue image.jpg</Key>
+        <LastModified>2013-02-28T16:40:25.000Z</LastModified>
+        <ETag>"7c8dfa129423a3615d748136f67c32e1"</ETag>
+        <Size>18344</Size>
+        <StorageClass>STANDARD</StorageClass>
+    </Contents>
+    <Contents>
+        <Key>gallery/tn/2_This is my Scottish landscape.jpg</Key>
+        <LastModified>2013-02-28T16:40:26.000Z</LastModified>
+        <ETag>"77bbfbcf01b11bdcbd6fd843d0c616d1"</ETag>
+        <Size>19109</Size>
+        <StorageClass>STANDARD</StorageClass>
+    </Contents>
+    <Contents>
+        <Key>gallery/tn/3_This is my Canadian image.jpg</Key>
+        <LastModified>2013-02-28T16:40:25.000Z</LastModified>
+        <ETag>"b9cb890e7daa607f00ae869c4a7345f3"</ETag>
+        <Size>18494</Size>
+        <StorageClass>STANDARD</StorageClass>
+    </Contents>    
+    <Contents>
+        <Key>gallery/tn/</Key>
+        <LastModified>2013-02-28T16:40:26.000Z</LastModified>
+        <ETag>"d41d8cd98f00b204e9800998ecf8427e"</ETag>
+        <Size>0</Size>
+        <StorageClass>STANDARD</StorageClass>
+    </Contents>
+    <Contents>
+        <Key>gallery/tn/1_This is my Blue image.jpg</Key>
+        <LastModified>2013-02-28T16:40:25.000Z</LastModified>
+        <ETag>"7c8dfa129423a3615d748136f67c32e1"</ETag>
+        <Size>18344</Size>
+        <StorageClass>STANDARD</StorageClass>
+    </Contents>
+    <Contents>
+        <Key>gallery/tn/2_This is my Scottish landscape.jpg</Key>
+        <LastModified>2013-02-28T16:40:26.000Z</LastModified>
+        <ETag>"77bbfbcf01b11bdcbd6fd843d0c616d1"</ETag>
+        <Size>19109</Size>
+        <StorageClass>STANDARD</StorageClass>
+    </Contents>
+    <Contents>
+        <Key>gallery/tn/3_This is my Canadian image.jpg</Key>
+        <LastModified>2013-02-28T16:40:25.000Z</LastModified>
+        <ETag>"b9cb890e7daa607f00ae869c4a7345f3"</ETag>
+        <Size>18494</Size>
+        <StorageClass>STANDARD</StorageClass>
+    </Contents>  
+    <Contents>
+        <Key>gallery/tn/</Key>
+        <LastModified>2013-02-28T16:40:26.000Z</LastModified>
+        <ETag>"d41d8cd98f00b204e9800998ecf8427e"</ETag>
+        <Size>0</Size>
+        <StorageClass>STANDARD</StorageClass>
+    </Contents>
+    <Contents>
+        <Key>gallery/tn/1_This is my Blue image.jpg</Key>
+        <LastModified>2013-02-28T16:40:25.000Z</LastModified>
+        <ETag>"7c8dfa129423a3615d748136f67c32e1"</ETag>
+        <Size>18344</Size>
+        <StorageClass>STANDARD</StorageClass>
+    </Contents>
+    <Contents>
+        <Key>gallery/tn/2_This is my Scottish landscape.jpg</Key>
+        <LastModified>2013-02-28T16:40:26.000Z</LastModified>
+        <ETag>"77bbfbcf01b11bdcbd6fd843d0c616d1"</ETag>
+        <Size>19109</Size>
+        <StorageClass>STANDARD</StorageClass>
+    </Contents>
+    <Contents>
+        <Key>gallery/tn/3_This is my Canadian image.jpg</Key>
+        <LastModified>2013-02-28T16:40:25.000Z</LastModified>
+        <ETag>"b9cb890e7daa607f00ae869c4a7345f3"</ETag>
+        <Size>18494</Size>
+        <StorageClass>STANDARD</StorageClass>
+    </Contents>
+    <Contents>
+        <Key>gallery/tn/</Key>
+        <LastModified>2013-02-28T16:40:26.000Z</LastModified>
+        <ETag>"d41d8cd98f00b204e9800998ecf8427e"</ETag>
+        <Size>0</Size>
+        <StorageClass>STANDARD</StorageClass>
+    </Contents>
+    <Contents>
+        <Key>gallery/tn/1_This is my Blue image.jpg</Key>
+        <LastModified>2013-02-28T16:40:25.000Z</LastModified>
+        <ETag>"7c8dfa129423a3615d748136f67c32e1"</ETag>
+        <Size>18344</Size>
+        <StorageClass>STANDARD</StorageClass>
+    </Contents>
+    <Contents>
+        <Key>gallery/tn/2_This is my Scottish landscape.jpg</Key>
+        <LastModified>2013-02-28T16:40:26.000Z</LastModified>
+        <ETag>"77bbfbcf01b11bdcbd6fd843d0c616d1"</ETag>
+        <Size>19109</Size>
+        <StorageClass>STANDARD</StorageClass>
+    </Contents>
+    <Contents>
+        <Key>gallery/tn/3_This is my Canadian image.jpg</Key>
+        <LastModified>2013-02-28T16:40:25.000Z</LastModified>
+        <ETag>"b9cb890e7daa607f00ae869c4a7345f3"</ETag>
+        <Size>18494</Size>
+        <StorageClass>STANDARD</StorageClass>
+    </Contents>    
+    <Contents>
+        <Key>gallery/tn/</Key>
+        <LastModified>2013-02-28T16:40:26.000Z</LastModified>
+        <ETag>"d41d8cd98f00b204e9800998ecf8427e"</ETag>
+        <Size>0</Size>
+        <StorageClass>STANDARD</StorageClass>
+    </Contents>
+    <Contents>
+        <Key>gallery/tn/1_This is my Blue image.jpg</Key>
+        <LastModified>2013-02-28T16:40:25.000Z</LastModified>
+        <ETag>"7c8dfa129423a3615d748136f67c32e1"</ETag>
+        <Size>18344</Size>
+        <StorageClass>STANDARD</StorageClass>
+    </Contents>
+    <Contents>
+        <Key>gallery/tn/2_This is my Scottish landscape.jpg</Key>
+        <LastModified>2013-02-28T16:40:26.000Z</LastModified>
+        <ETag>"77bbfbcf01b11bdcbd6fd843d0c616d1"</ETag>
+        <Size>19109</Size>
+        <StorageClass>STANDARD</StorageClass>
+    </Contents>
+    <Contents>
+        <Key>gallery/tn/3_This is my Canadian image.jpg</Key>
+        <LastModified>2013-02-28T16:40:25.000Z</LastModified>
+        <ETag>"b9cb890e7daa607f00ae869c4a7345f3"</ETag>
+        <Size>18494</Size>
+        <StorageClass>STANDARD</StorageClass>
+    </Contents>  
+            <Contents>
+        <Key>gallery/tn/</Key>
+        <LastModified>2013-02-28T16:40:26.000Z</LastModified>
+        <ETag>"d41d8cd98f00b204e9800998ecf8427e"</ETag>
+        <Size>0</Size>
+        <StorageClass>STANDARD</StorageClass>
+    </Contents>
+    <Contents>
+        <Key>gallery/tn/1_This is my Blue image.jpg</Key>
+        <LastModified>2013-02-28T16:40:25.000Z</LastModified>
+        <ETag>"7c8dfa129423a3615d748136f67c32e1"</ETag>
+        <Size>18344</Size>
+        <StorageClass>STANDARD</StorageClass>
+    </Contents>
+    <Contents>
+        <Key>gallery/tn/2_This is my Scottish landscape.jpg</Key>
+        <LastModified>2013-02-28T16:40:26.000Z</LastModified>
+        <ETag>"77bbfbcf01b11bdcbd6fd843d0c616d1"</ETag>
+        <Size>19109</Size>
+        <StorageClass>STANDARD</StorageClass>
+    </Contents>
+    <Contents>
+        <Key>gallery/tn/3_This is my Canadian image.jpg</Key>
+        <LastModified>2013-02-28T16:40:25.000Z</LastModified>
+        <ETag>"b9cb890e7daa607f00ae869c4a7345f3"</ETag>
+        <Size>18494</Size>
+        <StorageClass>STANDARD</StorageClass>
+    </Contents>
+    <Contents>
+        <Key>gallery/tn/</Key>
+        <LastModified>2013-02-28T16:40:26.000Z</LastModified>
+        <ETag>"d41d8cd98f00b204e9800998ecf8427e"</ETag>
+        <Size>0</Size>
+        <StorageClass>STANDARD</StorageClass>
+    </Contents>
+    <Contents>
+        <Key>gallery/tn/1_This is my Blue image.jpg</Key>
+        <LastModified>2013-02-28T16:40:25.000Z</LastModified>
+        <ETag>"7c8dfa129423a3615d748136f67c32e1"</ETag>
+        <Size>18344</Size>
+        <StorageClass>STANDARD</StorageClass>
+    </Contents>
+    <Contents>
+        <Key>gallery/tn/2_This is my Scottish landscape.jpg</Key>
+        <LastModified>2013-02-28T16:40:26.000Z</LastModified>
+        <ETag>"77bbfbcf01b11bdcbd6fd843d0c616d1"</ETag>
+        <Size>19109</Size>
+        <StorageClass>STANDARD</StorageClass>
+    </Contents>
+    <Contents>
+        <Key>gallery/tn/3_This is my Canadian image.jpg</Key>
+        <LastModified>2013-02-28T16:40:25.000Z</LastModified>
+        <ETag>"b9cb890e7daa607f00ae869c4a7345f3"</ETag>
+        <Size>18494</Size>
+        <StorageClass>STANDARD</StorageClass>
+    </Contents>    
+    <Contents>
+        <Key>gallery/tn/</Key>
+        <LastModified>2013-02-28T16:40:26.000Z</LastModified>
+        <ETag>"d41d8cd98f00b204e9800998ecf8427e"</ETag>
+        <Size>0</Size>
+        <StorageClass>STANDARD</StorageClass>
+    </Contents>
+    <Contents>
+        <Key>gallery/tn/1_This is my Blue image.jpg</Key>
+        <LastModified>2013-02-28T16:40:25.000Z</LastModified>
+        <ETag>"7c8dfa129423a3615d748136f67c32e1"</ETag>
+        <Size>18344</Size>
+        <StorageClass>STANDARD</StorageClass>
+    </Contents>
+    <Contents>
+        <Key>gallery/tn/2_This is my Scottish landscape.jpg</Key>
+        <LastModified>2013-02-28T16:40:26.000Z</LastModified>
+        <ETag>"77bbfbcf01b11bdcbd6fd843d0c616d1"</ETag>
+        <Size>19109</Size>
+        <StorageClass>STANDARD</StorageClass>
+    </Contents>
+    <Contents>
+        <Key>gallery/tn/3_This is my Canadian image.jpg</Key>
+        <LastModified>2013-02-28T16:40:25.000Z</LastModified>
+        <ETag>"b9cb890e7daa607f00ae869c4a7345f3"</ETag>
+        <Size>18494</Size>
+        <StorageClass>STANDARD</StorageClass>
+    </Contents>  
+    <Contents>
+        <Key>gallery/tn/</Key>
+        <LastModified>2013-02-28T16:40:26.000Z</LastModified>
+        <ETag>"d41d8cd98f00b204e9800998ecf8427e"</ETag>
+        <Size>0</Size>
+        <StorageClass>STANDARD</StorageClass>
+    </Contents>
+    <Contents>
+        <Key>gallery/tn/1_This is my Blue image.jpg</Key>
+        <LastModified>2013-02-28T16:40:25.000Z</LastModified>
+        <ETag>"7c8dfa129423a3615d748136f67c32e1"</ETag>
+        <Size>18344</Size>
+        <StorageClass>STANDARD</StorageClass>
+    </Contents>
+    <Contents>
+        <Key>gallery/tn/2_This is my Scottish landscape.jpg</Key>
+        <LastModified>2013-02-28T16:40:26.000Z</LastModified>
+        <ETag>"77bbfbcf01b11bdcbd6fd843d0c616d1"</ETag>
+        <Size>19109</Size>
+        <StorageClass>STANDARD</StorageClass>
+    </Contents>
+    <Contents>
+        <Key>gallery/tn/3_This is my Canadian image.jpg</Key>
+        <LastModified>2013-02-28T16:40:25.000Z</LastModified>
+        <ETag>"b9cb890e7daa607f00ae869c4a7345f3"</ETag>
+        <Size>18494</Size>
+        <StorageClass>STANDARD</StorageClass>
+    </Contents>
+    <Contents>
+        <Key>gallery/tn/</Key>
+        <LastModified>2013-02-28T16:40:26.000Z</LastModified>
+        <ETag>"d41d8cd98f00b204e9800998ecf8427e"</ETag>
+        <Size>0</Size>
+        <StorageClass>STANDARD</StorageClass>
+    </Contents>
+    <Contents>
+        <Key>gallery/tn/1_This is my Blue image.jpg</Key>
+        <LastModified>2013-02-28T16:40:25.000Z</LastModified>
+        <ETag>"7c8dfa129423a3615d748136f67c32e1"</ETag>
+        <Size>18344</Size>
+        <StorageClass>STANDARD</StorageClass>
+    </Contents>
+    <Contents>
+        <Key>gallery/tn/2_This is my Scottish landscape.jpg</Key>
+        <LastModified>2013-02-28T16:40:26.000Z</LastModified>
+        <ETag>"77bbfbcf01b11bdcbd6fd843d0c616d1"</ETag>
+        <Size>19109</Size>
+        <StorageClass>STANDARD</StorageClass>
+    </Contents>
+    <Contents>
+        <Key>gallery/tn/3_This is my Canadian image.jpg</Key>
+        <LastModified>2013-02-28T16:40:25.000Z</LastModified>
+        <ETag>"b9cb890e7daa607f00ae869c4a7345f3"</ETag>
+        <Size>18494</Size>
+        <StorageClass>STANDARD</StorageClass>
+    </Contents>    
+    <Contents>
+        <Key>gallery/tn/</Key>
+        <LastModified>2013-02-28T16:40:26.000Z</LastModified>
+        <ETag>"d41d8cd98f00b204e9800998ecf8427e"</ETag>
+        <Size>0</Size>
+        <StorageClass>STANDARD</StorageClass>
+    </Contents>
+    <Contents>
+        <Key>gallery/tn/1_This is my Blue image.jpg</Key>
+        <LastModified>2013-02-28T16:40:25.000Z</LastModified>
+        <ETag>"7c8dfa129423a3615d748136f67c32e1"</ETag>
+        <Size>18344</Size>
+        <StorageClass>STANDARD</StorageClass>
+    </Contents>
+    <Contents>
+        <Key>gallery/tn/2_This is my Scottish landscape.jpg</Key>
+        <LastModified>2013-02-28T16:40:26.000Z</LastModified>
+        <ETag>"77bbfbcf01b11bdcbd6fd843d0c616d1"</ETag>
+        <Size>19109</Size>
+        <StorageClass>STANDARD</StorageClass>
+    </Contents>
+    <Contents>
+        <Key>gallery/tn/3_This is my Canadian image.jpg</Key>
+        <LastModified>2013-02-28T16:40:25.000Z</LastModified>
+        <ETag>"b9cb890e7daa607f00ae869c4a7345f3"</ETag>
+        <Size>18494</Size>
+        <StorageClass>STANDARD</StorageClass>
+    </Contents>      
+</ListBucketResult>
